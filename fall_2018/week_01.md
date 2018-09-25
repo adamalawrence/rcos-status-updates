@@ -1,21 +1,14 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+Familarized myself with the codotype repository; not just the react generator but the generator library itself. I've never worked on a code generation project before - so this is pretty exciting!
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+This week I want to settle on a basic react boilerlplate design to implement. 
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+All the engineering designs are in Alex's head - I will have to rely on 1-on-1's to rapidly learn the codebase.
 
 ## Notes
 
